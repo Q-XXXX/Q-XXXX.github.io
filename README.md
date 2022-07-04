@@ -3,19 +3,20 @@
 An ordinary guy interested in Data, Robots and Internet of Things (IoT).
 
 ### Experience
-
-**Data Analyst/Scientist**, Tesla Inc. __2021-Current__
+_2021-Current:_
+**Data Analyst/Scientist**, Tesla Inc. 
 - Data Analyst/Scientist
 
-**Innovative Application Developer, Data and IoT**, Rockwell Automation __2019-2021__
+_2019-2021:_
+**Innovative Application Developer, Data and IoT**, Rockwell Automation 
 
-**Data Analyst**, John Deere Canada ULC. __2015-2016__
+_2015-2016:_ **Data Analyst**, John Deere Canada ULC. 
 
 ### Education
 
-**University of Toronto**, Toronto, Canada __2017-2019__
+_2017-2019:_ **University of Toronto**, Toronto, Canada 
 
-**McMaster University**, Hamilton, Canada __2012-2017__
+_2012-2017:_ **McMaster University**, Hamilton, Canada 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
