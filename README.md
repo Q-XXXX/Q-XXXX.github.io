@@ -1,10 +1,26 @@
-## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/VCL1004/VCL1004.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+An ordinary guy interested in Data, Robots and Internet of Things (IoT).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Experience
 
-### Markdown
+#### Current
+**Data Analyst/Scientist**, Tesla Inc.
+- Data Analyst/Scientist
+
+#### 2019-2021
+**Innovative Application Developer, Data and IoT**, Rockwell Automation
+
+#### 2015-2016
+**Data Analyst**, John Deere Canada ULC.
+
+### Education
+
+#### 2017 - 2019
+**University of Toronto**, Toronto, Canada
+
+#### 2012 - 2017
+**McMaster University**, Hamilton, Canada
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
