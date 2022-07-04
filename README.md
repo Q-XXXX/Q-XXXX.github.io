@@ -8,7 +8,7 @@ _2021-Current:_
 - Data Analyst/Scientist
 
 _2019-2021:_
-**Innovative Application Developer, Data and IoT**, Rockwell Automation 
+**Data Analytics and IoT Engineer**, Rockwell Automation 
 
 _2015-2016:_ **Data Analyst**, John Deere Canada ULC. 
 
