@@ -5,14 +5,13 @@ Data, Robots and Internet of Things (IoT).
 ### Experience
 **_2023-Current_** <br>
 **Sr. Data Engineer, Powertrain**, Tesla Inc. 
-- Correlation Analysis, Anomaly Detection, Signal Processing, Predictive Maintenance
 
 **_2021-2023_** <br>
 **Data Analyst, Powertrain**, Tesla Inc. 
 - Correlation Analysis, Anomaly Detection, Signal Processing, Predictive Maintenance
 
 **_2019-2021_** <br>
-**Data Analytics and IoT Engineer**, Rockwell Automation 
+**Solution Consultant, Data & IoT**, Rockwell Automation 
 
 **_2015-2016_** <br> 
 **Data Analyst**, John Deere Canada ULC. 
