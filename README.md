@@ -1,10 +1,14 @@
 ## About Me
 
-An ordinary guy interested in Data, Robots and Internet of Things (IoT).
+Data, Robots and Internet of Things (IoT).
 
 ### Experience
+**_2023-Current_** <br>
+**Sr. Data Engineer, Powertrain**, Tesla Inc. 
+- Correlation Analysis, Anomaly Detection, Signal Processing, Predictive Maintenance
+
 **_2021-Current_** <br>
-**Data Analyst/Scientist**, Tesla Inc. 
+**Data Analyst, Powertrain**, Tesla Inc. 
 - Correlation Analysis, Anomaly Detection, Signal Processing, Predictive Maintenance
 
 **_2019-2021_** <br>
