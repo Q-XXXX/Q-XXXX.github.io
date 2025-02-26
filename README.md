@@ -7,7 +7,7 @@ Data, Robots and Internet of Things (IoT).
 **Sr. Data Engineer, Powertrain**, Tesla Inc. 
 
 **_2021-2023_** <br>
-**Data Analyst, Powertrain**, Tesla Inc. 
+**Data Engineer, Powertrain**, Tesla Inc. 
 - Correlation Analysis, Anomaly Detection, Signal Processing, Predictive Maintenance
 
 **_2019-2021_** <br>
